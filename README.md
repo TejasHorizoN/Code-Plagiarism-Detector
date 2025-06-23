@@ -97,7 +97,3 @@ Made with ❤️ by Team Fanatic
 [View on GitHub](https://github.com/TejasHorizoN/Code-Plagiarism-Detector)
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License. 
